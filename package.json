@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-scrapingdog",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Scrapingdog MCP — wraps Scrapingdog (scrapingdog.com), a proxy-based web",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6fe805976250bdf751efe1c9bd20114490de3f1aff8c1f126df6110e5e164b6e",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-39ad971802735ed2f7b679d3c947e859ed48a68e6ee56d5ea856bb55939a1149",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
